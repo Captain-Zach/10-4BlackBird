@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "BasicTemplateEditor Editor Win64 Development (BasicTemplate)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\Aeramen\\Documents\\Unreal Projects\\BasicTemplate\\.vscode\\compileCommands_BasicTemplate.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\Aeramen\\Documents\\Unreal Projects\\BasicTemplate\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

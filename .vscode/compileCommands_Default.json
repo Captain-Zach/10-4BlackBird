@@ -1,0 +1,37 @@
+[
+	{
+		"file": "C:\\\\Users\\\\Aeramen\\\\Documents\\\\Unreal Projects\\\\BasicTemplate\\\\Source\\\\BasicTemplate\\\\BasicTemplate.Build.cs",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Aeramen\\Documents\\Unreal Projects\\BasicTemplate\\.vscode\\compileCommands_Default\\BasicTemplate.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Aeramen\\\\Documents\\\\Unreal Projects\\\\BasicTemplate\\\\Source\\\\BasicTemplate\\\\BasicTemplate.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Aeramen\\Documents\\Unreal Projects\\BasicTemplate\\.vscode\\compileCommands_Default\\BasicTemplate.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Aeramen\\\\Documents\\\\Unreal Projects\\\\BasicTemplate\\\\Source\\\\BasicTemplate\\\\BasicTemplate.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Aeramen\\Documents\\Unreal Projects\\BasicTemplate\\.vscode\\compileCommands_Default\\BasicTemplate.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Aeramen\\\\Documents\\\\Unreal Projects\\\\BasicTemplate\\\\Source\\\\BasicTemplate\\\\BasicTemplateCharacter.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Aeramen\\Documents\\Unreal Projects\\BasicTemplate\\.vscode\\compileCommands_Default\\BasicTemplate.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Aeramen\\\\Documents\\\\Unreal Projects\\\\BasicTemplate\\\\Source\\\\BasicTemplate\\\\BasicTemplateCharacter.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Aeramen\\Documents\\Unreal Projects\\BasicTemplate\\.vscode\\compileCommands_Default\\BasicTemplate.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Aeramen\\\\Documents\\\\Unreal Projects\\\\BasicTemplate\\\\Source\\\\BasicTemplate\\\\BasicTemplateGameMode.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Aeramen\\Documents\\Unreal Projects\\BasicTemplate\\.vscode\\compileCommands_Default\\BasicTemplate.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Aeramen\\\\Documents\\\\Unreal Projects\\\\BasicTemplate\\\\Source\\\\BasicTemplate\\\\BasicTemplateGameMode.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Aeramen\\Documents\\Unreal Projects\\BasicTemplate\\.vscode\\compileCommands_Default\\BasicTemplate.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	}
+]
